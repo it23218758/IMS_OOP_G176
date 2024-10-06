@@ -22,12 +22,12 @@ document.querySelector(".sign-in-form").addEventListener("submit", function (e) 
   // Admin login
   if (password === "IT1234") {
     alert("Admin login success!");
-    window.location.href = "/OOPDemoApp/"; // Redirect to the home page for admin
+    window.location.href = "/IMS_OOP_G176/"; // Redirect to the home page for admin
   } 
   // User login
   else if (password === "ST2244") {
     alert("User login success!");
-    window.location.href = "/OOPDemoApp/"; // Redirect to the home page for users
+    window.location.href = "/IMS_OOP_G176/"; // Redirect to the home page for users
   } 
   // Invalid login
   else {

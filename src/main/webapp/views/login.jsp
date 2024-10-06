@@ -13,7 +13,7 @@
     <div class="container">
       <div class="forms-container">
         <div class="signin-signup">
-          <form action="/OOPDemoApp/" class="sign-in-form">
+          <form action="/IMS_OOP_G176/" class="sign-in-form">
             <h2 class="title">Sign in</h2>
             <div class="input-field">
               <i class="fas fa-user"></i>

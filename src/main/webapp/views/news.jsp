@@ -116,10 +116,10 @@
 </head>
 <body>
 <div class = "navdiv">
-  <div class = "logo"> <a href = "/OOPDemoApp/"><img src = "img/SLIIT IMS.png"></a></div>
+  <div class = "logo"> <a href = "/IMS_OOP_G176/"><img src = "img/SLIIT IMS.png"></a></div>
   <nav class = "navbar">
     <ul>
-      <li><a href = "/OOPDemoApp/">Home</a></li>
+      <li><a href = "/IMS_OOP_G176/">Home</a></li>
       <li><a href = "">Club & Society</a></li>
       <li><a href = "NewsandEvent.jsp">Event & News</a></li>
       <li><a href = "">Sports</a></li>
@@ -201,7 +201,7 @@
     </tbody>
   </table>
 
-  <a href="/OOPDemoApp/">Back to Home</a>
+  <a href="/IMS_OOP_G176/">Back to Home</a>
 </div>
 <footer>
   <div class="footer" >
@@ -218,7 +218,7 @@
     </div>
 
     <div style = "height:250px; width: 600px; float:left; align-content: center; position: absolute; left:30%;">
-      <a  href = "/OOPDemoApp/"><img src = "img/SLIIT IMS.png" style = "width: 220px ; height:180px; margin-left: 29%; border-radius: 10% ; " ></a>
+      <a  href = "/IMS_OOP_G176/"><img src = "img/SLIIT IMS.png" style = "width: 220px ; height:180px; margin-left: 29%; border-radius: 10% ; " ></a>
       <p style = "font-weight: 500; margin-left: 29%; color: rgb(47, 54, 66);">©2024 SliiIMS Inc. All Rights Reserved</p>
 
     </div>
@@ -230,7 +230,7 @@
         <li>✆ +94(76) 369 7342</li>
         <li>☏ +94(11) 551 7723</li>
         <li>✉ info@sliitims.com</li>
-        <li>🔗<a href = "/OOPDemoApp/" style = "text-decoration: none; color: rgb(41, 40, 40);"> www.SliiIMS.com</a></li>
+        <li>🔗<a href = "/IMS_OOP_G176/" style = "text-decoration: none; color: rgb(41, 40, 40);"> www.SliiIMS.com</a></li>
         <br>
         <li><a href = "#" style = "text-decoration:underline; color: rgb(62, 62, 63);">Give Us Your Feedback!</a></li>
 
